@@ -5,7 +5,7 @@
 
 Prazer, me chamo Luis Eduardo Moreira Las Casas, sou natural de Belo Horizonte-MG e tenho 21 anos.
 
-*Observação: Os dados são de fontes públicas e o objetivo dos trabalhos são testar e colocar em prática o uso de algoritmos, ferramentas e técnicas.*
+Profissional organizado, dedicado e ambicioso, com excelente atenção aos detalhes e sede de aprendizado. Interessado em trabalhar de perto com especialistas em dados e contribuir para o sucesso dos projetos da empresa. Buscando uma posição em ambiente profissional de alto nível, onde posso utilizar minhas habilidades e experiência de estudos ao máximo e aprender dia a dia com meus colegas de trabalho sobre ciência de dados.
 
 Aqui encontrará:
 - Modelos de aprendizado de máquina 

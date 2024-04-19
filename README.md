@@ -20,7 +20,8 @@ Nesse portfólio você encontrará:
 | ------------        | ------------        | ------------ |
 | **Algoritmo de previsão de público em jogos do Campeonato Brasileiro** | [Previsao_Publico_Estadio](https://github.com/dudumlc/Previsao_Publico_Estadio) | Regressão |
 | **Algoritmo de detecção de toxidade em tweets** | [NLP_ToxicityClassification](https://github.com/dudumlc/NLP_ToxicityClassification) | NLP | 
-| **Algoritmo de previsão de churn** | [NLP_ToxicityClassification](https://github.com/dudumlc/Previsao_Churn) | Classificação | 
+| **Algoritmo de previsão de churn** | [Previsao_Churn](https://github.com/dudumlc/Previsao_Churn) | Classificação | 
+| **Clusterização de acidentes de trabalho** | [Previsao_Churn](https://github.com/dudumlc/Previsao_Churn) | Clusterização | 
 ------------
 
 ## 🌐 Socials:

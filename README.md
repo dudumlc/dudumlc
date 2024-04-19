@@ -3,8 +3,7 @@
 ---
 # Portfólio de Projetos
 
-## Prazer, 
-   me chamo Luis Eduardo Moreira Las Casas, sou natural de Belo Horizonte-MG e tenho 21 anos.
+Prazer, me chamo Luis Eduardo Moreira Las Casas, sou natural de Belo Horizonte-MG e tenho 21 anos.
 
 Profissional organizado, dedicado e ambicioso, com excelente atenção aos detalhes e sede de aprendizado. Interessado em trabalhar de perto com especialistas em dados e contribuir para o sucesso dos projetos da empresa. Buscando uma posição em ambiente profissional de alto nível, onde posso utilizar minhas habilidades e experiência de estudos ao máximo e aprender dia a dia com meus colegas de trabalho sobre ciência de dados.
 

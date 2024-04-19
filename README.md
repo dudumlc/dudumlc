@@ -15,10 +15,10 @@ Aqui encontrará:
 
 - ------------
 
-|    Nome do Projeto  | Notebook ou Link    |    Gênero    |  Observação  | 
+|    Nome do Projeto  | Notebook ou Link    |    Gênero          |  Observação  | 
 | ------------        | ------------        | ------------ | ------------ |
-| **Algoritmo de previsão de público em jogos do Campeonato Brasileiro** | [World Development Indicators](https://github.com/igor-smf/portifolio/blob/main/An%C3%A1lise%20de%20Indicadores/World_Development_Indicators.ipynb) | Python | Comportamento ao longo do tempo, valores extremos e tendência central
-| **Algoritmo de detecção de toxidade em tweets** | [Análise do Campeonato Brasileiro de Futebol](https://app.powerbi.com/view?r=eyJrIjoiNDAzMTEzMGUtMjM3Yy00ZGFiLWIzYzMtY2NkNzQ5N2NjNWM5IiwidCI6IjQ0OTBkZmExLTAzNTMtNDY1NS1iZDE3LWRiOGNmYTlkMWIzOSJ9) | Power BI | Uma análise das escolas por clube e ano |
+| **Algoritmo de previsão de público em jogos do Campeonato Brasileiro** | [World Development Indicators](https://github.com/igor-smf/portifolio/blob/main/An%C3%A1lise%20de%20Indicadores/World_Development_Indicators.ipynb) | Regressão | Comportamento ao longo do tempo, valores extremos e tendência central
+| **Algoritmo de detecção de toxidade em tweets** | [Análise do Campeonato Brasileiro de Futebol](https://app.powerbi.com/view?r=eyJrIjoiNDAzMTEzMGUtMjM3Yy00ZGFiLWIzYzMtY2NkNzQ5N2NjNWM5IiwidCI6IjQ0OTBkZmExLTAzNTMtNDY1NS1iZDE3LWRiOGNmYTlkMWIzOSJ9) | NLP | Uma análise das escolas por clube e ano |
 ------------
 
 **Luis Eduardo Moreira Las Casas** (*Estagário em Análise de Dados na ArcelorMittal*) - [LinkedIn]([https://www.linkedin.com/in/igor-silva-897775156/](https://www.linkedin.com/in/luis-las-casas/)) 

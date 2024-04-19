@@ -5,13 +5,13 @@
 
 Prazer, me chamo Luis Eduardo Moreira Las Casas, sou natural de Belo Horizonte-MG e tenho 21 anos.
 
-Profissional organizado, dedicado e ambicioso, com excelente atenção aos detalhes e sede de aprendizado. Interessado em trabalhar de perto com especialistas em dados e contribuir para o sucesso dos projetos da empresa. Buscando uma posição em ambiente profissional de alto nível, onde posso utilizar minhas habilidades e experiência de estudos ao máximo e aprender dia a dia com meus colegas de trabalho sobre ciência de dados.
+Sou um entusiasta por dados apaixonado pela vasta área dos dados, especialmente pela Ciência de Dados. Atualmente, estou cursando Ciências Contábeis na UFMG, onde busco ampliar meu conhecimento e habilidades analíticas. Tenho um forte interesse em criar modelos de Machine Learning para resolver desafios do dia a dia, buscando sempre maneiras inovadoras de aplicar técnicas analíticas para solucionar problemas reais. Além disso, como um entusiasta do futebol, é comum encontrar projetos relacionados a esse esporte em meu perfil. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de dados.
 
-Aqui encontrará:
+Nesse portfólio você encontrará:
 - Modelos de aprendizado de máquina 
-- Scripts de automação em python
 - Análises exploratórias de dados
 - Análises estatísticas de dados
+- Scripts de automação em python
 - Painéis e relatórios em Power BI
 
 - ------------

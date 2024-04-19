@@ -16,17 +16,15 @@ Aqui encontrará:
 
 - ------------
 
-|    Nome do Projeto  | Notebook ou Link    |    Gênero          |  Observação  | 
-| ------------        | ------------        | ------------ | ------------ |
-| **Algoritmo de previsão de público em jogos do Campeonato Brasileiro** | [Previsao_Publico_Estadio](https://github.com/dudumlc/Previsao_Publico_Estadio) | Regressão | xx
-| **Algoritmo de detecção de toxidade em tweets** | [Análise do Campeonato Brasileiro de Futebol](https://app.powerbi.com/view?r=eyJrIjoiNDAzMTEzMGUtMjM3Yy00ZGFiLWIzYzMtY2NkNzQ5N2NjNWM5IiwidCI6IjQ0OTBkZmExLTAzNTMtNDY1NS1iZDE3LWRiOGNmYTlkMWIzOSJ9) | NLP | Uma análise das escolas por clube e ano |
+|    Nome do Projeto  | Notebook ou Link    |    Gênero          |
+| ------------        | ------------        | ------------ |
+| **Algoritmo de previsão de público em jogos do Campeonato Brasileiro** | [Previsao_Publico_Estadio](https://github.com/dudumlc/Previsao_Publico_Estadio) | Regressão |
+| **Algoritmo de detecção de toxidade em tweets** | [NLP_ToxicityClassification](https://github.com/dudumlc/NLP_ToxicityClassification) | NLP | 
+| **Algoritmo de previsão de churn** | [NLP_ToxicityClassification](https://github.com/dudumlc/NLP_ToxicityClassification) | Classificação | 
 ------------
 
-**Luis Eduardo Moreira Las Casas** (*Estagário em Análise de Dados na ArcelorMittal*) - [LinkedIn]([https://www.linkedin.com/in/igor-silva-897775156/](https://www.linkedin.com/in/luis-las-casas/)) 
-
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ddd) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-las-casas/) 
 
 # 💻 Tech Stack:
 

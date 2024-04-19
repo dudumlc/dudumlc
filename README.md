@@ -25,8 +25,8 @@ Nesse portfólio você encontrará:
 ------------
 
 ## 🌐 Socials:
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png)](https://www.linkedin.com/in/luis-las-casas/) 
-https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
+[![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)](https://www.linkedin.com/in/luis-las-casas/) 
+
 # 💻 Tecnologias utilizadas:
 
 <div align="left">

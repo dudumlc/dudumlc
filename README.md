@@ -5,8 +5,10 @@
 
 Prazer, me chamo Luis Eduardo Moreira Las Casas, sou natural de Belo Horizonte-MG e tenho 21 anos.
 
-Atualmente, estou cursando Ciências Contábeis pela Universidade Federal de Minas Gerais (UFMG). Tenho um forte interesse em criar modelos de Machine Learning para resolver desafios do dia a dia, buscando sempre maneiras inovadoras de aplicar técnicas analíticas para solucionar problemas reais. Além disso, como um entusiasta do futebol, é comum encontrar projetos relacionados a esse esporte em meu perfil. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de dados.
-Sou um entusiasta pela vasta área dos dados, especialmente pela Ciência de Dados. 
+Atualmente, estou cursando Ciências Contábeis pela Universidade Federal de Minas Gerais (UFMG), mas em paralelo adquiri um forte interesse por toda a área de Ciência de Dados.
+Fiz um especilização em Data Science e Machine Learning na Escola DNC o que me deu uma boa base e direcionamento para seguir estudando e aprendendo sobre a área. Para isso, gosto muito de criar modelos de Machine Learning para resolver desafios comuns do dia a dia com.
+Além disso, sou apaixonado por futebol (e cruzeirense de berço, acho que perceberá em alguns projetos 😁). Por conta disso, gosto de criar projetos para conseguir informções ou resolver questões da área.
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de dados.  
 
 Nesse portfólio você encontrará:
 - Modelos de aprendizado de máquina 

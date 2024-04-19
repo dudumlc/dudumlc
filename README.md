@@ -25,7 +25,9 @@ Nesse portfólio você encontrará:
 ------------
 
 ## 🌐 Socials:
-[![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)](https://www.linkedin.com/in/luis-las-casas/) 
+<a href="https://www.linkedin.com/in/luis-las-casas/">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="40" alt="python logo";">
+</a>
 
 # 💻 Tecnologias utilizadas:
 
